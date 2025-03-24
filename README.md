@@ -9,7 +9,7 @@ Reserved repository to list a little of my academic life.&#128526;
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
-Below is a list of the courses I completed. There are currently 6 courses with a total of 40 hours.
+Below is a list of the courses I completed. There are currently 7 courses with a total of 41 hours.
 
 ### Git e GitHub
 
@@ -25,7 +25,9 @@ Below is a list of the courses I completed. There are currently 6 courses with a
 
 -Python: Create your first application. School: [Alura](https://www.alura.com.br/). Duration: 8h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-crie-sua-primeira-aplicacao/certificate).
 
--Python: Applying orientation to objects. School: [Alura](https://www.alura.com.br/). Duration : 6h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-aplicando-orientacao-objetos/certificate)
+-Python: Applying orientation to objects. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-aplicando-orientacao-objetos/certificate).
+
+-Python: Getting Started in Programming: Career and First Steps. School: [Alura](https://www.alura.com.br/). Duration: 1h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/comecando-programacao-carreira-primeiros-passos/certificate).
 
 #### Ia
 

@@ -15,7 +15,7 @@ Below is a list of the courses I completed. There are currently 7 courses with a
 
 -Git e GitHub: Sharing and Collaborating on Projects. School: [Alura](https://www.alura.com.br/). Duration: 8h.&#128173; [here](https://cursos.alura.com.br/user/thiagofabri73/course/git-github-compartilhando-colaborando-projetos/certificate)
 
-#### Logic Programming
+#### JavaScript
 
 -Logic programming I: Dive into programming with JavaScript. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate)
 
